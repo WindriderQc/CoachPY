@@ -1,0 +1,78 @@
+/******** cloent review css here *********/
+/* line 3, /Applications/MAMP/htdocs/palash/cl/august/200 FitFloss Fitness/fitfloss html/sass/_client_review.scss */
+.client_review .client_review_single {
+    text-align: center;
+    padding: 50px 42px;
+    border: 2px solid #000;
+  }
+  
+  @media (max-width: 991px) {
+    /* line 3, /Applications/MAMP/htdocs/palash/cl/august/200 FitFloss Fitness/fitfloss html/sass/_client_review.scss */
+    .client_review .client_review_single {
+      padding: 30px;
+    }
+  }
+  
+  @media only screen and (min-width: 992px) and (max-width: 1200px) {
+    /* line 3, /Applications/MAMP/htdocs/palash/cl/august/200 FitFloss Fitness/fitfloss html/sass/_client_review.scss */
+    .client_review .client_review_single {
+      padding: 30px;
+    }
+  }
+  
+  /* line 13, /Applications/MAMP/htdocs/palash/cl/august/200 FitFloss Fitness/fitfloss html/sass/_client_review.scss */
+  .client_review .client_review_single img {
+    border-radius: 50%;
+    max-width: 80px;
+    margin: 0 auto;
+    text-align: center;
+  }
+  
+  /* line 19, /Applications/MAMP/htdocs/palash/cl/august/200 FitFloss Fitness/fitfloss html/sass/_client_review.scss */
+  .client_review .client_review_single h4 {
+    font-size: 16px;
+    margin-top: 17px;
+  }
+  
+  /* line 23, /Applications/MAMP/htdocs/palash/cl/august/200 FitFloss Fitness/fitfloss html/sass/_client_review.scss */
+  .client_review .client_review_single p {
+    margin-top: 26px;
+    font-size: 16px;
+  }
+  
+  /* line 28, /Applications/MAMP/htdocs/palash/cl/august/200 FitFloss Fitness/fitfloss html/sass/_client_review.scss */
+  .client_review .owl-dots {
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 75px;
+  }
+  
+  @media (max-width: 991px) {
+    /* line 28, /Applications/MAMP/htdocs/palash/cl/august/200 FitFloss Fitness/fitfloss html/sass/_client_review.scss */
+    .client_review .owl-dots {
+      margin-top: 30px;
+    }
+  }
+  
+  @media only screen and (min-width: 992px) and (max-width: 1200px) {
+    /* line 28, /Applications/MAMP/htdocs/palash/cl/august/200 FitFloss Fitness/fitfloss html/sass/_client_review.scss */
+    .client_review .owl-dots {
+      margin-top: 30px;
+    }
+  }
+  
+  /* line 38, /Applications/MAMP/htdocs/palash/cl/august/200 FitFloss Fitness/fitfloss html/sass/_client_review.scss */
+  .client_review .owl-dots .owl-dot {
+    display: inline-block;
+    height: 14px;
+    width: 14px;
+    background-color: #eeeeee !important;
+    margin: 0 5px;
+  }
+  
+  /* line 45, /Applications/MAMP/htdocs/palash/cl/august/200 FitFloss Fitness/fitfloss html/sass/_client_review.scss */
+  .client_review .owl-dots .active {
+    background-color:rgb(5,120,50) !important;
+  }
+  
+  /******** cloent review css end *********/
